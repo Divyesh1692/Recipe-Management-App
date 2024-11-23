@@ -2,6 +2,7 @@ const express = require("express");
 const cors = require("cors");
 const cookieParser = require("cookie-parser");
 const bodyParser = require("body-parser");
+const mongoose = require("mongoose");
 // const dbConnect = require("./config/db");
 const userRouter = require("./routes/userRoutes");
 const recipeRouter = require("./routes/recipeRoutes");
