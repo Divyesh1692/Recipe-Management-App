@@ -4,6 +4,10 @@ A Node.js-based backend application for managing recipes with user authenticatio
 
 ---
 
+## Vercel Deployment Url
+
+https://recipe-management-app-ten.vercel.app/
+
 ### **Features**
 
 1. **User Authentication**:
